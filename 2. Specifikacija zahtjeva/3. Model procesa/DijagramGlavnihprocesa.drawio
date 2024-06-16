@@ -1,0 +1,357 @@
+<mxfile host="app.diagrams.net" modified="2024-06-14T22:22:04.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Z_U-1cX2osW1Oqk-b6Kd" version="24.5.4" type="device">
+  <diagram name="Page-1" id="9qnjNFe1cq6dyH2Bavuy">
+    <mxGraphModel dx="1612" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-75" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-1" target="9uG3ZuYZOGiKZ59EuA_h-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-1" value="Osoba" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="450" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-2" value="Unos novog korisnika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-3" value="Korisnik" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="790" width="106" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-4" value="&lt;div&gt;Plaćanje organiziranja turnira&lt;/div&gt;&lt;div&gt;Isplata dobitnicima&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="793" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-3" target="9uG3ZuYZOGiKZ59EuA_h-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="780" as="sourcePoint" />
+            <mxPoint x="430" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-6" value="Detalji računa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="810" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-7" value="Banka" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="660" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1.014;entryY=0.184;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-4" target="9uG3ZuYZOGiKZ59EuA_h-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="750" as="sourcePoint" />
+            <mxPoint x="430" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="740" />
+              <mxPoint x="150" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-9" value="Detalji korisničkog računa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="698" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.123;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-7" target="9uG3ZuYZOGiKZ59EuA_h-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="700" as="sourcePoint" />
+            <mxPoint x="430" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-11" value="Potvrda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="748" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.259;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-4" target="9uG3ZuYZOGiKZ59EuA_h-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="780" as="sourcePoint" />
+            <mxPoint x="200" y="818" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="870" as="sourcePoint" />
+            <mxPoint x="55" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-14" value="Generirano izvešće o naplati" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="960" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-14" target="9uG3ZuYZOGiKZ59EuA_h-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="870" as="sourcePoint" />
+            <mxPoint x="430" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.998;exitY=0.421;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-14" target="9uG3ZuYZOGiKZ59EuA_h-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="870" as="sourcePoint" />
+            <mxPoint x="430" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="1002" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-17" value="Prijava" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="690" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-3" target="9uG3ZuYZOGiKZ59EuA_h-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="850" as="sourcePoint" />
+            <mxPoint x="430" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-17" target="9uG3ZuYZOGiKZ59EuA_h-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="870" as="sourcePoint" />
+            <mxPoint x="430" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="680" as="sourcePoint" />
+            <mxPoint x="470" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="745" />
+              <mxPoint x="490" y="745" />
+              <mxPoint x="460" y="740" />
+              <mxPoint x="470" y="745" />
+              <mxPoint x="470" y="745" />
+              <mxPoint x="450" y="745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-21" value="Pretraživanje turnira" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="120" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-21" target="9uG3ZuYZOGiKZ59EuA_h-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="680" as="sourcePoint" />
+            <mxPoint x="430" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-23" value="Filter za &lt;br&gt;pretraživanje" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="633" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="590" as="sourcePoint" />
+            <mxPoint x="640" y="579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-25" value="Upit za turnir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="550" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-26" value="&lt;div&gt;Pogled na detalje turnira(regija,datum,&lt;/div&gt;&lt;div&gt;igra,natjecatelji/ekipe itd.)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="528" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-26" target="9uG3ZuYZOGiKZ59EuA_h-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="590" as="sourcePoint" />
+            <mxPoint x="430" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-28" value="Odvijanje turnira?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="525" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="578" as="sourcePoint" />
+            <mxPoint x="760" y="578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="590" as="sourcePoint" />
+            <mxPoint x="860" y="578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-31" value="Selekcija turnira" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-32" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1.01;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-73" target="9uG3ZuYZOGiKZ59EuA_h-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="590" as="sourcePoint" />
+            <mxPoint x="710" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-28" target="9uG3ZuYZOGiKZ59EuA_h-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="630" as="sourcePoint" />
+            <mxPoint x="710" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="660" />
+              <mxPoint x="920" y="710" />
+              <mxPoint x="770" y="869" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-34" value="Turnir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="855" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="770" as="sourcePoint" />
+            <mxPoint x="730" y="745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-36" value="D1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="730" y="724" width="40" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-37" value="Baza podataka korisnika" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="724" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-38" value="Verifikacija" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="718" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1.014;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.359;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-37" target="9uG3ZuYZOGiKZ59EuA_h-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="800" as="sourcePoint" />
+            <mxPoint x="630" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="786" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-40" value="Potvrda valjanosti računa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="760" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="500" as="sourcePoint" />
+            <mxPoint x="600" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-42" value="D2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="600" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-43" value="Baza podataka turnira" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-44" value="Turnir povezani podaci&amp;nbsp;&lt;br&gt;koje korisnik pretražuje" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="390" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-45" value="Organiziranje turnira" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-46" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-43" target="9uG3ZuYZOGiKZ59EuA_h-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="420" as="sourcePoint" />
+            <mxPoint x="790" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-47" value="Turnir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="428" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.451;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-43" target="9uG3ZuYZOGiKZ59EuA_h-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="420" as="sourcePoint" />
+            <mxPoint x="790" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-49" value="Detalji turnira" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="485" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-50" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-45" target="9uG3ZuYZOGiKZ59EuA_h-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="340" as="sourcePoint" />
+            <mxPoint x="790" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.364;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-43" target="9uG3ZuYZOGiKZ59EuA_h-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="400" as="sourcePoint" />
+            <mxPoint x="840" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.012;exitY=0.307;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-45" target="9uG3ZuYZOGiKZ59EuA_h-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="340" as="sourcePoint" />
+            <mxPoint x="860" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-53" value="Organizator" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="860" y="200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-54" value="Planiranje" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-55" value="P5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-56" value="Podaci za prijavu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="820" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-57" value="Račun" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="968" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.024;exitY=0.814;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.017;entryY=0.821;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-53" target="9uG3ZuYZOGiKZ59EuA_h-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-59" value="Novi turnir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="752" y="248" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-60" value="Organiziranje novih turnira" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="340" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="456" as="sourcePoint" />
+            <mxPoint x="50" y="456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-62" value="Zahtjev za identifikaciju" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="428" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.006;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="520" as="sourcePoint" />
+            <mxPoint x="50" y="482" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-64" value="Podaci za registraciju" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="458" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.009;entryY=0.652;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-1" target="9uG3ZuYZOGiKZ59EuA_h-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="520" as="sourcePoint" />
+            <mxPoint x="470" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-66" value="Identifikacija" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="485" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-67" value="P1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-68" value="P2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="793" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-69" value="P3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="10" y="960" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-70" value="P4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-71" value="P6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="528" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-72" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1.01;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9uG3ZuYZOGiKZ59EuA_h-28" target="9uG3ZuYZOGiKZ59EuA_h-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="550" as="sourcePoint" />
+            <mxPoint x="861" y="551" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-73" value="P7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="860" y="524.5" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="9uG3ZuYZOGiKZ59EuA_h-74" value="P8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="120" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2024-06-16T20:16:57.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="mpPY0SeD95sZJiKGnJq2" version="24.5.4" type="device">
+  <diagram name="Page-1" id="MoJqNhFmcahtjHz2ccr9">
+    <mxGraphModel dx="712" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fxzzvoismv8t0uc0KXo0-1" value="Klijentska razina" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-2" value="Web browser&lt;br&gt;Desktop&amp;nbsp;&lt;br&gt;Mobitel&lt;br&gt;TV&lt;br&gt;Tablet" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-3" value="Web razina" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="145" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-4" value="Korisničko sučelje" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-5" value="Aplikacijska razina" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="630" y="145" width="180" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-6" value="Poslovna logika" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-7" value="Pristup podacima" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-8" value="Podatkovna razina" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-9" value="SQL baza podataka" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=55;exitDy=0;exitPerimeter=0;entryX=0.418;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fxzzvoismv8t0uc0KXo0-1" target="fxzzvoismv8t0uc0KXo0-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=55;exitDy=0;exitPerimeter=0;entryX=0.224;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fxzzvoismv8t0uc0KXo0-3" target="fxzzvoismv8t0uc0KXo0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="370" as="sourcePoint" />
+            <mxPoint x="620" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fxzzvoismv8t0uc0KXo0-7" target="fxzzvoismv8t0uc0KXo0-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="370" as="sourcePoint" />
+            <mxPoint x="670" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=245;entryDy=95;entryPerimeter=0;exitX=-0.002;exitY=0.528;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fxzzvoismv8t0uc0KXo0-8" target="fxzzvoismv8t0uc0KXo0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="370" as="sourcePoint" />
+            <mxPoint x="670" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxzzvoismv8t0uc0KXo0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fxzzvoismv8t0uc0KXo0-2" target="fxzzvoismv8t0uc0KXo0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
